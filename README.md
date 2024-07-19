@@ -4,7 +4,7 @@
 
 2. Launch the Xcode application
 
-3. Select [iPhone 15 (17.5)] from the top navigation bar
+3. Select `iPhone 15 (17.5)` from the top navigation bar
 
 4. `StartingProject` -> TARGETS -> `StartingProject` -> `Starting & Capabilities`
    1. Team -> Set your team
