@@ -1,7 +1,12 @@
 # How to run
 
 1. `aa`
+
+![Png](https://github.com/mukoubuchi/Little-Lemon-reservation-app/blob/main/image/howToRun_1.png)
+
 2. `bb`
 
+![Png](https://github.com/mukoubuchi/Little-Lemon-reservation-app/blob/main/image/howToRun_2.png)
 
-![Gif](https://github.com/mukoubuchi/Little-Lemon-reservation-app/blob/main/littleLemonReservation.gif)
+__
+![Gif](https://github.com/mukoubuchi/Little-Lemon-reservation-app/blob/main/image/littleLemonReservation.gif)
