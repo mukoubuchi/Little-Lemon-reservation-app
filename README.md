@@ -15,5 +15,5 @@
 3. `cc`
 
 <p align="center">
-     ![Gif](https://github.com/mukoubuchi/Little-Lemon-reservation-app/blob/main/image/littleLemonReservation.gif)
+     <img src="https://github.com/mukoubuchi/Little-Lemon-reservation-app/blob/main/image/littleLemonReservation.gif">
 </p>
