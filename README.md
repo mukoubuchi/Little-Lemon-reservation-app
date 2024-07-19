@@ -4,4 +4,4 @@
 2. `bb`
 
 
-![Gif](github.gif)
+![Gif](https://github.com/mukoubuchi/Little-Lemon-reservation-app/blob/main/littleLemonReservation.gif)
